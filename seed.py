@@ -7,7 +7,7 @@ db.create_all()
 print('Creating database')
 
 print('Seeding database')
-entry1 = Minion(name="Bob", appearance="Two-eyed and medium-sized minion with nice combed hair.")
+entry1 = Minion(name="Dave", appearance="Two-eyed and medium-sized minion with nice combed hair.")
 entry2 = Minion(name="Bob", appearance="Short and bald with heterocromia. ")
 entry3 = Minion(name="Kevin", appearance="Tall, two-eyed with sprout cut hair.")
 entry4 = Minion(name="Jerry", appearance="Short and plump with spiky hair and two eyes.")
